@@ -10,7 +10,7 @@ It includes my half-finished ideas and learning projects. Mostly everything is u
 
 ### 🗃️ What's in Here
 
-- `project-one/`: A quick experiment with XYZ.
+- `reddit-clone`: a clone of Reddit built using Bootstrap
 
 ---
 
