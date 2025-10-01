@@ -8,7 +8,7 @@ It includes my half-finished ideas and learning projects. Mostly everything is u
 - These projects are not intended for production or general use.
 - If you're here out of curiosity, then welcome. Just don't expect much.
 
-### 🗃️ What's in Here
+### 🗃️ Projects in Here
 
 - `reddit-clone`: a clone of Reddit built using Bootstrap
 
